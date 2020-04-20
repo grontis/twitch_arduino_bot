@@ -1,0 +1,8 @@
+{
+  "username" : "<BOT_NAME>",
+  "password" : "<TWITCH_OATH_PASSWORD>",
+  "channels" : [
+    "<TWITCH_CHANNEL_NAME>"
+  ],
+  "portName" : "<ARDUINO_PORT_NAME>"
+}

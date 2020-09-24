@@ -1,4 +1,7 @@
 # twitch_arduino_bot
+
+simple project that integrates an arduino with a twitch chatbot. The example produced is the most basic but can be expanded upon for more complex purposes.
+
 ## Hardware Setup
 ### Components:
 * Arduino Uno
